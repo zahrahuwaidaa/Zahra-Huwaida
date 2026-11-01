@@ -1,0 +1,4 @@
+Ide proyek:
+1. Aplikasi pencatat pengeluaran harian.
+2. Game tebak kata sederhana.
+3. Visualisasi data cuaca dari API.
